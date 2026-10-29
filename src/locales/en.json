@@ -13,8 +13,8 @@
   },
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Build A Striker Wiki — Guides, Codes, Attributes & Updates",
+      "description": "Learn the 10-round striker-building loop in Build A Striker. Explore beginner tips, attribute choices, team rolls, codes, and game updates."
     },
     "hero": {
       "eyebrow": "Roblox Football Squad Building Game",
@@ -38,106 +38,106 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Build A Striker Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the 10-round loop: roll a team, receive a player, and choose one attribute for your striker."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Best Attributes",
+          "description": "Explore all 10 named attributes and plan each pick around the striker you want to build."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Striker Types",
+          "description": "Understand how random players and your attribute choices shape different striker builds."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Codes and Updates",
+          "description": "Find the official channels for code announcements and new game updates."
         }
       ]
     },
     "popular": {
       "eyebrow": "Popular Pages",
-      "title": "Trending Now",
+      "title": "Build A Striker Popular Guides",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Attributes",
+        "Codes",
+        "Team Rolls"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Start with the team roll, player draw, and one-attribute choice each round.",
+          "href": "/guide/build-a-striker-beginner-guide"
+        },
+        {
+          "badge": "Guide",
+          "title": "How to Play",
+          "description": "Follow the complete 10-round striker-building loop.",
+          "href": "/guide/build-a-striker-how-to-play"
+        },
+        {
+          "badge": "Popular",
+          "title": "Best Attributes",
+          "description": "See every named attribute and how to approach each pick.",
+          "href": "/mechanics/build-a-striker-best-attributes"
+        },
+        {
+          "badge": "Guide",
+          "title": "Striker Types",
+          "description": "Learn how your choices define the striker you build.",
+          "href": "/characters/build-a-striker-striker-types"
+        },
+        {
+          "badge": "Popular",
+          "title": "Best Character",
+          "description": "Understand random player rolls and the search for a strong build.",
+          "href": "/characters/build-a-striker-best-character"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "Codes",
+          "description": "Check where the developer shares new code announcements.",
+          "href": "/codes/build-a-striker-codes"
+        },
+        {
+          "badge": "Guide",
+          "title": "Progression Guide",
+          "description": "Make each of your 10 picks count toward the leaderboard.",
+          "href": "/progression/build-a-striker-how-to-progress"
+        },
+        {
+          "badge": "Guide",
+          "title": "Build System",
+          "description": "See how team rolls, player draws, and attributes fit together.",
+          "href": "/mechanics/build-a-striker-build-system"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Latest Updates",
+          "description": "Follow game changes and official announcement channels.",
+          "href": "/updates/build-a-striker-update"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What Is Build A Striker?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Build A Striker is a Roblox soccer game by Wild Card. and a fan-made tribute to Blue Lock. In each round, you roll a random team, receive a random player from that team, and add one of that player’s attributes to the striker you are building.",
+        "A full run lasts 10 rounds, with team rolls ranging from First Selection to Pros. Your picks can come from Shooting, Speed, Dribbling, Passing, Physical, Defense, Vision, IQ, Ego, and Weapon. The finished striker competes for a place on the leaderboard."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Wild Card."
         },
         {
           "label": "Platform",
@@ -145,186 +145,248 @@
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Soccer squad building"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Rounds",
+          "value": "10"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Attributes",
+          "value": "10"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Team range",
+          "value": "First Selection to Pros"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore Build A Striker Wiki",
+      "description": "Find guides to the 10-round striker-building loop, random teams and players, attribute choices, codes, and updates.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Build A Striker Codes",
+          "description": "Find the official channels for redemption codes and learn where new code announcements appear.",
+          "href": "/codes/build-a-striker-codes",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "Codes",
+              "detail": "The Roblox game description directs players to the community server."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "Updates",
+              "detail": "Watch the game page and Wild Card. group for announcements."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "Redeem",
+              "detail": "Use the in-game redemption option when a new code is shared."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Build A Striker Beginner Guide",
+          "description": "Learn the core loop: roll a team, receive a random player, choose one attribute, and repeat for 10 rounds.",
+          "href": "/guide/build-a-striker-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Roll a random team, from First Selection up to Pros."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Receive a random player from that team."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Choose one of the player’s 10 attributes for your striker."
+            },
+            {
+              "label": "4",
+              "detail": "Repeat the cycle through all 10 rounds and check the leaderboard."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
-          "displayType": "tier-grid",
+          "name": "Build A Striker Best Attributes",
+          "description": "Explore Shooting, Speed, Dribbling, Passing, Physical, Defense, Vision, IQ, Ego, and Weapon as choices in the one-pick-per-round draft.",
+          "href": "/mechanics/build-a-striker-best-attributes",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Shooting",
+              "detail": "One of the 10 attributes available from a rolled player."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Speed",
+              "detail": "Another named option for a single round’s pick."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Vision",
+              "detail": "Consider it alongside the other attributes offered by your roll."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Ego",
+              "detail": "One of the game’s Blue Lock-inspired attribute names."
+            },
+            {
+              "label": "Weapon",
+              "detail": "The tenth named attribute in the official game description."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Build A Striker Tier List",
+          "description": "Use an S-to-C comparison framework for players and teams as you evaluate your rolls; the game does not publish a fixed official ranking.",
+          "href": "/characters/build-a-striker-best-character",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "S",
+              "detail": "Your strongest observed options for the build you are assembling."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "A",
+              "detail": "Strong alternatives that fit your remaining attribute choices."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "B",
+              "detail": "Useful situational picks from the player you rolled."
+            },
+            {
+              "label": "C",
+              "detail": "Fallback options when a roll offers a weaker fit."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Build A Striker Teams Guide",
+          "description": "Understand the random team roll, from First Selection to Pros, and how the player draw affects each round’s attribute choice.",
+          "href": "/guide/build-a-striker-how-to-play",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Teams",
+              "detail": "Each round begins with a random team roll."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Players",
+              "detail": "A random player comes from the rolled team."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Pros",
+              "detail": "Pros is the top end named in the game description."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Build A Striker Gameplay Mechanics",
+          "description": "Break down the round-based build system, random player selection, one-attribute choice, and 10-round leaderboard goal.",
+          "href": "/mechanics/build-a-striker-build-system",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Roll",
+              "detail": "Team and player selection are random."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Pick",
+              "detail": "Keep one attribute from the rolled player."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Rounds",
+              "detail": "Build your striker across 10 rounds."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Build A Striker Progression Guide",
+          "description": "Improve your decisions across repeated 10-round runs by reading each roll, planning attribute picks, and tracking your leaderboard result.",
+          "href": "/progression/build-a-striker-how-to-progress",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Read the team and player you receive this round."
+            },
+            {
+              "label": "2",
+              "detail": "Compare the 10 available attributes before choosing one."
+            },
+            {
+              "label": "3",
+              "detail": "Add your pick to the striker you are building."
+            },
+            {
+              "label": "4",
+              "detail": "Adapt the next choice to the rolls you receive."
+            },
+            {
+              "label": "5",
+              "detail": "Complete all 10 rounds."
+            },
+            {
+              "label": "6",
+              "detail": "Review your leaderboard finish before the next run."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Build A Striker Updates and Community",
+          "description": "Follow the Roblox experience and Wild Card. creator group for game changes, code announcements, and community news.",
+          "href": "/updates/build-a-striker-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Updates",
+              "detail": "Check the Roblox experience page for new activity."
+            },
+            {
+              "label": "Codes",
+              "detail": "The game description points to its community server."
+            },
+            {
+              "label": "Group",
+              "detail": "Wild Card. is the game’s Roblox creator group."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "title": "Build A Striker FAQ",
+      "description": "Answers to common Build A Striker questions about rounds, attributes, teams, and codes.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Build A Striker?",
+          "answer": "Build A Striker is a Roblox soccer game by Wild Card. You roll a team and player, keep one player attribute each round, and build a striker over 10 rounds."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How many rounds are in Build A Striker?",
+          "answer": "A full Build A Striker run has 10 rounds. Each round adds one chosen attribute to your striker before you compete on the leaderboard."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Which attributes can I choose in Build A Striker?",
+          "answer": "The game lists Shooting, Speed, Dribbling, Passing, Physical, Defense, Vision, IQ, Ego, and Weapon. You choose one attribute from the player rolled each round."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How do team rolls work in Build A Striker?",
+          "answer": "Each round starts with a random team roll ranging from First Selection to Pros, followed by a random player from that team."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Where can I find Build A Striker codes?",
+          "answer": "The developer directs players to the game’s community server for codes and updates. Check the official Roblox experience and Wild Card. group for announcements."
         }
       ]
     },
