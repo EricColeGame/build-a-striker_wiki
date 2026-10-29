@@ -1,1 +1,479 @@
-{}
+{
+  "site": {
+    "name": "Wiki Build A Striker",
+    "shortName": "Build A Striker",
+    "tagline": "Panduan, Kode & Penyusunan Skuad untuk Game Build A Striker di Roblox",
+    "description": "Panduan Build A Striker untuk pemain Roblox: strategi menyusun skuad, atribut pemain, tips progres, panduan bermain, dan kode terverifikasi.",
+    "legalNotice": "Wiki penggemar Build A Striker yang independen. Tidak berafiliasi dengan pengembang atau Roblox."
+  },
+  "nav": {
+    "home": "Beranda",
+    "menu": "Menu",
+    "toggleTheme": "Ganti tema",
+    "guide": "Panduan",
+    "mechanics": "Mekanisme",
+    "progression": "Progres",
+    "characters": "Karakter",
+    "controls": "Kontrol",
+    "codes": "Kode",
+    "updates": "Pembaruan",
+    "community": "Komunitas"
+  },
+  "home": {
+    "meta": {
+      "title": "Wiki Build A Striker — Panduan, Kode, Atribut & Pembaruan",
+      "description": "Pelajari siklus membangun striker selama 10 ronde di Build A Striker. Temukan tips pemula, pilihan atribut, undian tim, kode, dan pembaruan game."
+    },
+    "hero": {
+      "eyebrow": "Game Penyusunan Skuad Sepak Bola di Roblox",
+      "title": "Wiki Build A Striker",
+      "description": "Jelajahi panduan Build A Striker, tips bermain, strategi membangun pemain, saran progres, dan informasi game terbaru yang terverifikasi. Pelajari cara membangun striker yang lebih kuat dan meningkatkan skuad sepak bola Anda.",
+      "stats": [
+        "Roblox",
+        "Penyusunan Skuad",
+        "Tips Bermain",
+        "Kode Terverifikasi"
+      ],
+      "primaryCta": "Panduan Bermain di Roblox",
+      "secondaryCta": "Main di Roblox",
+      "tertiaryCta": "Kode Roblox",
+      "videoLabel": "Video permainan"
+    },
+    "updates": {
+      "title": "Pembaruan Terbaru",
+      "browse": "Jelajahi Semua Panduan",
+      "viewAll": "Lihat Semua"
+    },
+    "start": {
+      "eyebrow": "Mulai di Sini",
+      "title": "Perjalanan Anda di Build A Striker",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Panduan Pemula",
+          "description": "Pelajari siklus 10 ronde: undi tim, dapatkan pemain, dan pilih satu atribut untuk striker Anda."
+        },
+        {
+          "number": "2",
+          "title": "Atribut Terbaik",
+          "description": "Jelajahi 10 atribut dan rencanakan setiap pilihan sesuai striker yang ingin Anda bangun."
+        },
+        {
+          "number": "3",
+          "title": "Tipe Striker",
+          "description": "Pahami bagaimana pemain acak dan pilihan atribut Anda membentuk berbagai susunan striker."
+        },
+        {
+          "number": "4",
+          "title": "Kode dan Pembaruan",
+          "description": "Temukan kanal resmi untuk pengumuman kode dan pembaruan game terbaru."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Halaman Populer",
+      "title": "Panduan Populer Build A Striker",
+      "quickLinks": [
+        "Panduan Pemula",
+        "Atribut",
+        "Kode",
+        "Undian Tim"
+      ],
+      "cards": [
+        {
+          "badge": "Pemula",
+          "title": "Panduan Pemula",
+          "description": "Mulailah dengan undian tim, pemilihan pemain secara acak, dan pilihan satu atribut setiap ronde.",
+          "href": "/guide/build-a-striker-beginner-guide"
+        },
+        {
+          "badge": "Panduan",
+          "title": "Cara Bermain",
+          "description": "Ikuti seluruh siklus membangun striker selama 10 ronde.",
+          "href": "/guide/build-a-striker-how-to-play"
+        },
+        {
+          "badge": "Populer",
+          "title": "Atribut Terbaik",
+          "description": "Lihat semua atribut yang tersedia dan cara menentukan setiap pilihan.",
+          "href": "/mechanics/build-a-striker-best-attributes"
+        },
+        {
+          "badge": "Panduan",
+          "title": "Tipe Striker",
+          "description": "Pelajari bagaimana pilihan Anda menentukan striker yang Anda bangun.",
+          "href": "/characters/build-a-striker-striker-types"
+        },
+        {
+          "badge": "Populer",
+          "title": "Karakter Terbaik",
+          "description": "Pahami undian pemain acak dan cara mencari susunan yang kuat.",
+          "href": "/characters/build-a-striker-best-character"
+        },
+        {
+          "badge": "Diperbarui",
+          "title": "Kode",
+          "description": "Cari tahu tempat pengembang membagikan pengumuman kode baru.",
+          "href": "/codes/build-a-striker-codes"
+        },
+        {
+          "badge": "Panduan",
+          "title": "Panduan Progres",
+          "description": "Manfaatkan setiap pilihan dari 10 kesempatan Anda untuk mengejar posisi di papan peringkat.",
+          "href": "/progression/build-a-striker-how-to-progress"
+        },
+        {
+          "badge": "Panduan",
+          "title": "Sistem Penyusunan Striker",
+          "description": "Lihat bagaimana undian tim, pemilihan pemain secara acak, dan atribut saling berkaitan.",
+          "href": "/mechanics/build-a-striker-build-system"
+        },
+        {
+          "badge": "Diperbarui",
+          "title": "Pembaruan Terbaru",
+          "description": "Ikuti perubahan game dan kanal pengumuman resmi.",
+          "href": "/updates/build-a-striker-update"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Apa Itu Build A Striker?",
+      "paragraphs": [
+        "Build A Striker adalah game sepak bola di Roblox karya Wild Card. dan merupakan penghormatan buatan penggemar untuk Blue Lock. Di setiap ronde, Anda mengundi tim secara acak, mendapatkan pemain acak dari tim tersebut, lalu menambahkan satu atribut pemain itu ke striker yang sedang Anda bangun.",
+        "Satu sesi penuh berlangsung selama 10 ronde, dengan undian tim mulai dari First Selection hingga Pros. Pilihan Anda dapat berupa Tembakan, Kecepatan, Dribel, Umpan, Fisik, Pertahanan, Visi, IQ, Ego, dan Senjata. Striker yang selesai dibangun bersaing untuk mendapatkan tempat di papan peringkat."
+      ],
+      "stats": [
+        {
+          "label": "Pengembang",
+          "value": "Wild Card."
+        },
+        {
+          "label": "Platform",
+          "value": "Roblox"
+        },
+        {
+          "label": "Genre",
+          "value": "Penyusunan skuad sepak bola"
+        },
+        {
+          "label": "Ronde",
+          "value": "10"
+        },
+        {
+          "label": "Atribut",
+          "value": "10"
+        },
+        {
+          "label": "Rentang tim",
+          "value": "First Selection hingga Pros"
+        }
+      ],
+      "cta": "Jelajahi Semua Panduan"
+    },
+    "explore": {
+      "title": "Jelajahi Wiki Build A Striker",
+      "description": "Temukan panduan tentang siklus membangun striker selama 10 ronde, tim dan pemain acak, pilihan atribut, kode, serta pembaruan.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Kode Build A Striker",
+          "description": "Temukan kanal resmi untuk kode penukaran dan ketahui tempat munculnya pengumuman kode baru.",
+          "href": "/codes/build-a-striker-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Kode",
+              "detail": "Deskripsi game di Roblox mengarahkan pemain ke server komunitas."
+            },
+            {
+              "label": "Pembaruan",
+              "detail": "Pantau halaman game dan grup Wild Card. untuk pengumuman."
+            },
+            {
+              "label": "Tukarkan",
+              "detail": "Gunakan opsi penukaran dalam game saat kode baru dibagikan."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Panduan Pemula Build A Striker",
+          "description": "Pelajari siklus utamanya: undi tim, dapatkan pemain acak, pilih satu atribut, lalu ulangi selama 10 ronde.",
+          "href": "/guide/build-a-striker-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Undi tim acak, mulai dari First Selection hingga Pros."
+            },
+            {
+              "label": "2",
+              "detail": "Dapatkan pemain acak dari tim tersebut."
+            },
+            {
+              "label": "3",
+              "detail": "Pilih satu dari 10 atribut pemain tersebut untuk striker Anda."
+            },
+            {
+              "label": "4",
+              "detail": "Ulangi siklus ini hingga seluruh 10 ronde selesai, lalu periksa papan peringkat."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Atribut Terbaik Build A Striker",
+          "description": "Jelajahi Tembakan, Kecepatan, Dribel, Umpan, Fisik, Pertahanan, Visi, IQ, Ego, dan Senjata sebagai pilihan saat Anda hanya dapat memilih satu atribut per ronde.",
+          "href": "/mechanics/build-a-striker-best-attributes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Tembakan",
+              "detail": "Salah satu dari 10 atribut yang tersedia dari pemain hasil undian."
+            },
+            {
+              "label": "Kecepatan",
+              "detail": "Pilihan atribut lain untuk satu ronde."
+            },
+            {
+              "label": "Visi",
+              "detail": "Pertimbangkan bersama atribut lain yang tersedia dari hasil undian Anda."
+            },
+            {
+              "label": "Ego",
+              "detail": "Salah satu nama atribut dalam game yang terinspirasi oleh Blue Lock."
+            },
+            {
+              "label": "Senjata",
+              "detail": "Atribut kesepuluh yang disebutkan dalam deskripsi resmi game."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Daftar Tingkatan Build A Striker",
+          "description": "Gunakan kerangka perbandingan dari S hingga C untuk pemain dan tim saat menilai hasil undian; game ini tidak menerbitkan peringkat resmi yang tetap.",
+          "href": "/characters/build-a-striker-best-character",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Pilihan terkuat yang Anda temukan untuk susunan yang sedang dibuat."
+            },
+            {
+              "label": "A",
+              "detail": "Alternatif kuat yang sesuai dengan pilihan atribut Anda yang tersisa."
+            },
+            {
+              "label": "B",
+              "detail": "Pilihan situasional yang berguna dari pemain hasil undian Anda."
+            },
+            {
+              "label": "C",
+              "detail": "Pilihan cadangan saat hasil undian kurang sesuai."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Panduan Tim Build A Striker",
+          "description": "Pahami undian tim acak, mulai dari First Selection hingga Pros, dan bagaimana pemilihan pemain secara acak memengaruhi pilihan atribut di setiap ronde.",
+          "href": "/guide/build-a-striker-how-to-play",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Tim",
+              "detail": "Setiap ronde dimulai dengan undian tim acak."
+            },
+            {
+              "label": "Pemain",
+              "detail": "Pemain acak berasal dari tim hasil undian."
+            },
+            {
+              "label": "Pros",
+              "detail": "Pros adalah tingkat tertinggi yang disebutkan dalam deskripsi game."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Mekanisme Permainan Build A Striker",
+          "description": "Pahami sistem penyusunan striker berbasis ronde, pemilihan pemain secara acak, pilihan satu atribut, dan tujuan mencapai papan peringkat setelah 10 ronde.",
+          "href": "/mechanics/build-a-striker-build-system",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Undi",
+              "detail": "Pemilihan tim dan pemain bersifat acak."
+            },
+            {
+              "label": "Pilih",
+              "detail": "Ambil satu atribut dari pemain hasil undian."
+            },
+            {
+              "label": "Ronde",
+              "detail": "Bangun striker Anda selama 10 ronde."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Panduan Progres Build A Striker",
+          "description": "Tingkatkan keputusan Anda dalam sesi 10 ronde yang berulang dengan memahami setiap hasil undian, merencanakan pilihan atribut, dan memantau hasil Anda di papan peringkat.",
+          "href": "/progression/build-a-striker-how-to-progress",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Perhatikan tim dan pemain yang Anda dapatkan pada ronde ini."
+            },
+            {
+              "label": "2",
+              "detail": "Bandingkan 10 atribut yang tersedia sebelum memilih satu."
+            },
+            {
+              "label": "3",
+              "detail": "Tambahkan atribut pilihan Anda ke striker yang sedang dibangun."
+            },
+            {
+              "label": "4",
+              "detail": "Sesuaikan pilihan berikutnya dengan hasil undian yang Anda dapatkan."
+            },
+            {
+              "label": "5",
+              "detail": "Selesaikan seluruh 10 ronde."
+            },
+            {
+              "label": "6",
+              "detail": "Tinjau posisi akhir Anda di papan peringkat sebelum sesi berikutnya."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Pembaruan dan Komunitas Build A Striker",
+          "description": "Ikuti game di Roblox dan grup kreator Wild Card. untuk mengetahui perubahan game, pengumuman kode, dan kabar komunitas.",
+          "href": "/updates/build-a-striker-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Pembaruan",
+              "detail": "Periksa halaman game di Roblox untuk aktivitas terbaru."
+            },
+            {
+              "label": "Kode",
+              "detail": "Deskripsi game mengarahkan pemain ke server komunitasnya."
+            },
+            {
+              "label": "Grup",
+              "detail": "Wild Card. adalah grup kreator game ini di Roblox."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Tanya Jawab Build A Striker",
+      "description": "Jawaban atas pertanyaan umum tentang ronde, atribut, tim, dan kode Build A Striker.",
+      "items": [
+        {
+          "question": "Apa itu Build A Striker?",
+          "answer": "Build A Striker adalah game sepak bola di Roblox karya Wild Card. Anda mengundi tim dan pemain, mengambil satu atribut pemain setiap ronde, lalu membangun striker selama 10 ronde."
+        },
+        {
+          "question": "Berapa ronde dalam Build A Striker?",
+          "answer": "Satu sesi penuh Build A Striker terdiri dari 10 ronde. Setiap ronde menambahkan satu atribut pilihan ke striker Anda sebelum Anda bersaing di papan peringkat."
+        },
+        {
+          "question": "Atribut apa saja yang bisa saya pilih di Build A Striker?",
+          "answer": "Game ini mencantumkan Tembakan, Kecepatan, Dribel, Umpan, Fisik, Pertahanan, Visi, IQ, Ego, dan Senjata. Anda memilih satu atribut dari pemain hasil undian di setiap ronde."
+        },
+        {
+          "question": "Bagaimana cara kerja undian tim di Build A Striker?",
+          "answer": "Setiap ronde dimulai dengan undian tim acak mulai dari First Selection hingga Pros, lalu diikuti pemilihan pemain acak dari tim tersebut."
+        },
+        {
+          "question": "Di mana saya bisa menemukan kode Build A Striker?",
+          "answer": "Pengembang mengarahkan pemain ke server komunitas game untuk kode dan pembaruan. Periksa game resmi di Roblox dan grup Wild Card. untuk pengumuman."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Siap Menguasai Build A Striker?",
+      "description": "Dari undian pertama hingga papan peringkat akhir, wiki komunitas kami menyediakan panduan penyusunan skuad yang gratis dan terkini.",
+      "primary": "Jelajahi Panduan Roblox",
+      "secondary": "Main di Roblox"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Panduan Build A Striker",
+    "overviewDescription": "Mulai bermain Build A Striker dengan panduan pemula, strategi per ronde, dan tips bermain yang praktis."
+  },
+  "mechanics": {
+    "overviewTitle": "Mekanisme Build A Striker",
+    "overviewDescription": "Pahami undian tim, atribut pemain, penyusunan striker, dan pilihan di setiap ronde."
+  },
+  "progression": {
+    "overviewTitle": "Progres Build A Striker",
+    "overviewDescription": "Tingkatkan keputusan Anda dalam sesi Build A Striker yang berulang dengan menilai undian tim, pilihan atribut, dan hasil di papan peringkat."
+  },
+  "characters": {
+    "overviewTitle": "Karakter Build A Striker",
+    "overviewDescription": "Bandingkan tipe striker dan pilihan penyusunan karakter untuk sesi Build A Striker Anda berikutnya."
+  },
+  "controls": {
+    "overviewTitle": "Kontrol Build A Striker",
+    "overviewDescription": "Temukan kontrol Build A Striker dan panduan input untuk PC, perangkat seluler, serta pengontrol."
+  },
+  "codes": {
+    "overviewTitle": "Kode Build A Striker",
+    "overviewDescription": "Periksa informasi kode Build A Striker dan tempat mencari pengumuman resmi."
+  },
+  "updates": {
+    "overviewTitle": "Pembaruan Build A Striker",
+    "overviewDescription": "Baca tentang rilis Build A Striker, perubahan terbaru, dan fitur baru."
+  },
+  "community": {
+    "overviewTitle": "Komunitas Build A Striker",
+    "overviewDescription": "Temukan server komunitas Build A Striker dan sumber daya grup Roblox."
+  },
+  "shared": {
+    "wikiNavigation": "Navigasi Wiki",
+    "activeCodes": "Kode Aktif",
+    "updated": "Diperbarui",
+    "viewAllCodes": "Lihat semua kode",
+    "playOnRoblox": "Main di Roblox",
+    "inThisSection": "Dalam bagian ini",
+    "tableOfContents": "Daftar Isi",
+    "nextSteps": "Langkah Berikutnya",
+    "needHelp": "Butuh Bantuan?",
+    "relatedReading": "Bacaan Terkait",
+    "relatedGuides": "Panduan Terkait",
+    "readMore": "Baca selengkapnya",
+    "officialMedia": "Media resmi",
+    "home": "Beranda",
+    "noGuidesAvailable": "Belum ada panduan. Kunjungi lagi nanti!"
+  },
+  "footer": {
+    "aboutTitle": "Wiki Build A Striker",
+    "about": "Wiki Build A Striker adalah pusat panduan independen buatan penggemar yang membahas penyusunan skuad, atribut pemain, progres, kode, dan pengetahuan penting tentang permainan bagi pemain baru maupun berpengalaman.",
+    "quickLinks": "Tautan Cepat",
+    "guides": "Panduan",
+    "legal": "Hukum",
+    "copyright": "2026 Wiki Build A Striker. Tidak berafiliasi dengan Build A Striker atau Roblox.",
+    "description": "Panduan independen untuk game penyusunan skuad sepak bola di Roblox: bangun striker yang lebih kuat, pilih atribut dengan lebih cermat, dan naik di papan peringkat.",
+    "playGame": "Main di Roblox",
+    "officialDiscord": "Discord Resmi",
+    "officialYoutube": "YouTube Resmi",
+    "vvBuilder": "Halaman Roblox Resmi",
+    "beginnerGuide": "Panduan Bermain",
+    "codes": "Kode",
+    "copyrightPage": "Hak Cipta",
+    "aboutPage": "Tentang",
+    "raceGuides": "Panduan Balapan",
+    "bossGuides": "Panduan Bos",
+    "buildGuide": "Panduan Penyusunan",
+    "privacyPolicy": "Kebijakan Privasi",
+    "termsOfService": "Ketentuan Layanan"
+  }
+}

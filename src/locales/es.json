@@ -1,1 +1,479 @@
-{}
+{
+  "site": {
+    "name": "Wiki de Build A Striker",
+    "shortName": "Build A Striker",
+    "tagline": "Guías, códigos y creación de equipos para el juego de delanteros de Roblox",
+    "description": "Guías de Build A Striker para jugadores de Roblox: estrategias para crear equipos, atributos de los jugadores, consejos de progresión, guías de juego y códigos verificados.",
+    "legalNotice": "Wiki independiente de fans de Build A Striker. No está afiliada al desarrollador ni a Roblox."
+  },
+  "nav": {
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "guide": "Guía",
+    "mechanics": "Mecánicas",
+    "progression": "Progresión",
+    "characters": "Personajes",
+    "controls": "Controles",
+    "codes": "Códigos",
+    "updates": "Actualizaciones",
+    "community": "Comunidad"
+  },
+  "home": {
+    "meta": {
+      "title": "Wiki de Build A Striker — Guías, códigos, atributos y actualizaciones",
+      "description": "Aprende cómo funciona el ciclo de creación de delanteros de 10 rondas en Build A Striker. Descubre consejos para principiantes, elecciones de atributos, sorteos de equipos, códigos y actualizaciones del juego."
+    },
+    "hero": {
+      "eyebrow": "Juego de Roblox de creación de equipos de fútbol",
+      "title": "Wiki de Build A Striker",
+      "description": "Explora guías de Build A Striker, consejos de juego, estrategias para crear jugadores, recomendaciones de progresión y la información verificada más reciente del juego. Aprende a crear un delantero más fuerte y mejorar tu equipo de fútbol.",
+      "stats": [
+        "Roblox",
+        "Creación de equipos",
+        "Consejos de juego",
+        "Códigos verificados"
+      ],
+      "primaryCta": "Guías de juego de Roblox",
+      "secondaryCta": "Jugar en Roblox",
+      "tertiaryCta": "Códigos de Roblox",
+      "videoLabel": "Vídeo de juego"
+    },
+    "updates": {
+      "title": "Últimas actualizaciones",
+      "browse": "Explorar todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu recorrido en Build A Striker",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Aprende el ciclo de 10 rondas: sortea un equipo, recibe un jugador y elige un atributo para tu delantero."
+        },
+        {
+          "number": "2",
+          "title": "Mejores atributos",
+          "description": "Explora los 10 atributos con nombre y planifica cada elección según el delantero que quieras crear."
+        },
+        {
+          "number": "3",
+          "title": "Tipos de delanteros",
+          "description": "Comprende cómo los jugadores aleatorios y tus elecciones de atributos dan forma a distintos tipos de delanteros."
+        },
+        {
+          "number": "4",
+          "title": "Códigos y actualizaciones",
+          "description": "Encuentra los canales oficiales donde se anuncian códigos y nuevas actualizaciones del juego."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Guías populares de Build A Striker",
+      "quickLinks": [
+        "Guía para principiantes",
+        "Atributos",
+        "Códigos",
+        "Sorteos de equipos"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes",
+          "description": "Empieza con el sorteo de equipo, la selección de jugador y la elección de un atributo en cada ronda.",
+          "href": "/guide/build-a-striker-beginner-guide"
+        },
+        {
+          "badge": "Guía",
+          "title": "Cómo jugar",
+          "description": "Sigue el ciclo completo de creación de delanteros de 10 rondas.",
+          "href": "/guide/build-a-striker-how-to-play"
+        },
+        {
+          "badge": "Popular",
+          "title": "Mejores atributos",
+          "description": "Consulta todos los atributos con nombre y cómo abordar cada elección.",
+          "href": "/mechanics/build-a-striker-best-attributes"
+        },
+        {
+          "badge": "Guía",
+          "title": "Tipos de delanteros",
+          "description": "Descubre cómo tus elecciones definen al delantero que creas.",
+          "href": "/characters/build-a-striker-striker-types"
+        },
+        {
+          "badge": "Popular",
+          "title": "Mejor personaje",
+          "description": "Comprende los sorteos aleatorios de jugadores y cómo buscar una configuración sólida.",
+          "href": "/characters/build-a-striker-best-character"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Códigos",
+          "description": "Consulta dónde comparte el desarrollador los anuncios de nuevos códigos.",
+          "href": "/codes/build-a-striker-codes"
+        },
+        {
+          "badge": "Guía",
+          "title": "Guía de progresión",
+          "description": "Haz que cada una de tus 10 elecciones cuente para la clasificación.",
+          "href": "/progression/build-a-striker-how-to-progress"
+        },
+        {
+          "badge": "Guía",
+          "title": "Sistema de creación",
+          "description": "Descubre cómo se combinan los sorteos de equipos, las selecciones de jugadores y los atributos.",
+          "href": "/mechanics/build-a-striker-build-system"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Últimas actualizaciones",
+          "description": "Sigue los cambios del juego y los canales de anuncios oficiales.",
+          "href": "/updates/build-a-striker-update"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Build A Striker?",
+      "paragraphs": [
+        "Build A Striker es un juego de fútbol de Roblox creado por Wild Card. y un homenaje de fans a Blue Lock. En cada ronda, sorteas un equipo aleatorio, recibes un jugador aleatorio de ese equipo y añades uno de sus atributos al delantero que estás creando.",
+        "Una partida completa dura 10 rondas, con sorteos de equipos que van de First Selection a Pros. Puedes elegir entre Tiro, Velocidad, Regate, Pases, Físico, Defensa, Visión, IQ, Ego y Arma. El delantero terminado compite por un puesto en la clasificación."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "Wild Card."
+        },
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Género",
+          "value": "Creación de equipos de fútbol"
+        },
+        {
+          "label": "Rondas",
+          "value": "10"
+        },
+        {
+          "label": "Atributos",
+          "value": "10"
+        },
+        {
+          "label": "Rango de equipos",
+          "value": "De First Selection a Pros"
+        }
+      ],
+      "cta": "Explorar todas las guías"
+    },
+    "explore": {
+      "title": "Explora la wiki de Build A Striker",
+      "description": "Encuentra guías sobre el ciclo de creación de delanteros de 10 rondas, equipos y jugadores aleatorios, elecciones de atributos, códigos y actualizaciones.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Códigos de Build A Striker",
+          "description": "Encuentra los canales oficiales de códigos canjeables y descubre dónde aparecen los anuncios de nuevos códigos.",
+          "href": "/codes/build-a-striker-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Códigos",
+              "detail": "La descripción del juego en Roblox dirige a los jugadores al servidor de la comunidad."
+            },
+            {
+              "label": "Actualizaciones",
+              "detail": "Consulta la página del juego y el grupo Wild Card. para ver los anuncios."
+            },
+            {
+              "label": "Canjear",
+              "detail": "Usa la opción de canje del juego cuando se comparta un código nuevo."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía para principiantes de Build A Striker",
+          "description": "Aprende el ciclo básico: sortea un equipo, recibe un jugador aleatorio, elige un atributo y repite durante 10 rondas.",
+          "href": "/guide/build-a-striker-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Sortea un equipo aleatorio, desde First Selection hasta Pros."
+            },
+            {
+              "label": "2",
+              "detail": "Recibe un jugador aleatorio de ese equipo."
+            },
+            {
+              "label": "3",
+              "detail": "Elige uno de los 10 atributos del jugador para tu delantero."
+            },
+            {
+              "label": "4",
+              "detail": "Repite el ciclo durante las 10 rondas y consulta la clasificación."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Mejores atributos de Build A Striker",
+          "description": "Explora Tiro, Velocidad, Regate, Pases, Físico, Defensa, Visión, IQ, Ego y Arma como opciones al elegir un atributo por ronda.",
+          "href": "/mechanics/build-a-striker-best-attributes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Tiro",
+              "detail": "Uno de los 10 atributos disponibles de un jugador obtenido en un sorteo."
+            },
+            {
+              "label": "Velocidad",
+              "detail": "Otra opción con nombre para elegir en una sola ronda."
+            },
+            {
+              "label": "Visión",
+              "detail": "Considérala junto con los demás atributos que te ofrece el sorteo."
+            },
+            {
+              "label": "Ego",
+              "detail": "Uno de los nombres de atributos del juego inspirados en Blue Lock."
+            },
+            {
+              "label": "Arma",
+              "detail": "El décimo atributo con nombre en la descripción oficial del juego."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Clasificación por niveles de Build A Striker",
+          "description": "Usa un marco de comparación de S a C para jugadores y equipos al evaluar tus sorteos; el juego no publica una clasificación oficial fija.",
+          "href": "/characters/build-a-striker-best-character",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Las mejores opciones que hayas observado para la configuración que estás creando."
+            },
+            {
+              "label": "A",
+              "detail": "Alternativas sólidas que encajan con tus elecciones de atributos restantes."
+            },
+            {
+              "label": "B",
+              "detail": "Elecciones situacionales útiles del jugador que te ha tocado."
+            },
+            {
+              "label": "C",
+              "detail": "Opciones de reserva cuando un sorteo ofrece algo que encaja peor."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guía de equipos de Build A Striker",
+          "description": "Comprende el sorteo aleatorio de equipos, de First Selection a Pros, y cómo la selección de jugador afecta la elección de atributos de cada ronda.",
+          "href": "/guide/build-a-striker-how-to-play",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Equipos",
+              "detail": "Cada ronda comienza con un sorteo aleatorio de equipo."
+            },
+            {
+              "label": "Jugadores",
+              "detail": "Un jugador aleatorio procede del equipo sorteado."
+            },
+            {
+              "label": "Pros",
+              "detail": "Pros es el extremo superior mencionado en la descripción del juego."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Mecánicas de juego de Build A Striker",
+          "description": "Descubre cómo funcionan el sistema de creación por rondas, la selección aleatoria de jugadores, la elección de un atributo y el objetivo de llegar a la clasificación tras 10 rondas.",
+          "href": "/mechanics/build-a-striker-build-system",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Sortear",
+              "detail": "La selección de equipo y jugador es aleatoria."
+            },
+            {
+              "label": "Elegir",
+              "detail": "Conserva un atributo del jugador que te haya tocado."
+            },
+            {
+              "label": "Rondas",
+              "detail": "Crea tu delantero a lo largo de 10 rondas."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Guía de progresión de Build A Striker",
+          "description": "Mejora tus decisiones a lo largo de varias partidas de 10 rondas evaluando cada sorteo, planificando tus elecciones de atributos y siguiendo tu resultado en la clasificación.",
+          "href": "/progression/build-a-striker-how-to-progress",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Fíjate en el equipo y el jugador que recibes en esta ronda."
+            },
+            {
+              "label": "2",
+              "detail": "Compara los 10 atributos disponibles antes de elegir uno."
+            },
+            {
+              "label": "3",
+              "detail": "Añade el atributo elegido al delantero que estás creando."
+            },
+            {
+              "label": "4",
+              "detail": "Adapta tu siguiente elección a los resultados de los sorteos."
+            },
+            {
+              "label": "5",
+              "detail": "Completa las 10 rondas."
+            },
+            {
+              "label": "6",
+              "detail": "Revisa tu posición final en la clasificación antes de la siguiente partida."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Actualizaciones y comunidad de Build A Striker",
+          "description": "Sigue la experiencia de Roblox y el grupo del creador Wild Card. para conocer los cambios del juego, los anuncios de códigos y las noticias de la comunidad.",
+          "href": "/updates/build-a-striker-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Actualizaciones",
+              "detail": "Consulta la página de la experiencia en Roblox para ver las novedades."
+            },
+            {
+              "label": "Códigos",
+              "detail": "La descripción del juego remite a su servidor de la comunidad."
+            },
+            {
+              "label": "Grupo",
+              "detail": "Wild Card. es el grupo creador del juego en Roblox."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes sobre Build A Striker",
+      "description": "Respuestas a preguntas habituales sobre las rondas, los atributos, los equipos y los códigos de Build A Striker.",
+      "items": [
+        {
+          "question": "¿Qué es Build A Striker?",
+          "answer": "Build A Striker es un juego de fútbol de Roblox creado por Wild Card. Sorteas un equipo y un jugador, conservas un atributo del jugador en cada ronda y creas un delantero a lo largo de 10 rondas."
+        },
+        {
+          "question": "¿Cuántas rondas hay en Build A Striker?",
+          "answer": "Una partida completa de Build A Striker tiene 10 rondas. En cada ronda añades un atributo elegido a tu delantero antes de competir en la clasificación."
+        },
+        {
+          "question": "¿Qué atributos puedo elegir en Build A Striker?",
+          "answer": "El juego enumera Tiro, Velocidad, Regate, Pases, Físico, Defensa, Visión, IQ, Ego y Arma. En cada ronda eliges un atributo del jugador que te haya tocado."
+        },
+        {
+          "question": "¿Cómo funcionan los sorteos de equipos en Build A Striker?",
+          "answer": "Cada ronda comienza con el sorteo de un equipo aleatorio, desde First Selection hasta Pros, seguido de un jugador aleatorio de ese equipo."
+        },
+        {
+          "question": "¿Dónde puedo encontrar códigos de Build A Striker?",
+          "answer": "El desarrollador dirige a los jugadores al servidor de la comunidad del juego para consultar códigos y actualizaciones. Revisa la experiencia oficial de Roblox y el grupo Wild Card. para ver los anuncios."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para dominar Build A Striker?",
+      "description": "Desde tu primer sorteo hasta la clasificación final, nuestra wiki de la comunidad te ofrece guías gratuitas y actualizadas para crear equipos.",
+      "primary": "Explorar guías de Roblox",
+      "secondary": "Jugar en Roblox"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guía de Build A Striker",
+    "overviewDescription": "Empieza a jugar a Build A Striker con guías para principiantes, estrategias por ronda y consejos prácticos de juego."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de Build A Striker",
+    "overviewDescription": "Comprende los sorteos de equipos, los atributos de los jugadores, la creación de delanteros y las decisiones de cada ronda."
+  },
+  "progression": {
+    "overviewTitle": "Progresión de Build A Striker",
+    "overviewDescription": "Mejora tus decisiones en distintas partidas de Build A Striker evaluando los sorteos de equipos, las elecciones de atributos y los resultados en la clasificación."
+  },
+  "characters": {
+    "overviewTitle": "Personajes de Build A Striker",
+    "overviewDescription": "Compara tipos de delanteros y opciones para crear personajes en tu próxima partida de Build A Striker."
+  },
+  "controls": {
+    "overviewTitle": "Controles de Build A Striker",
+    "overviewDescription": "Encuentra los controles de Build A Striker y orientación sobre el uso de PC, dispositivos móviles y mandos."
+  },
+  "codes": {
+    "overviewTitle": "Códigos de Build A Striker",
+    "overviewDescription": "Consulta información sobre los códigos de Build A Striker y dónde buscar anuncios oficiales."
+  },
+  "updates": {
+    "overviewTitle": "Actualizaciones de Build A Striker",
+    "overviewDescription": "Lee sobre los lanzamientos, los cambios recientes y las nuevas funciones de Build A Striker."
+  },
+  "community": {
+    "overviewTitle": "Comunidad de Build A Striker",
+    "overviewDescription": "Encuentra el servidor de la comunidad de Build A Striker y los recursos del grupo de Roblox."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice",
+    "nextSteps": "Siguientes pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Contenido multimedia oficial",
+    "home": "Inicio",
+    "noGuidesAvailable": "Todavía no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Wiki de Build A Striker",
+    "about": "La wiki de Build A Striker es un centro independiente de guías creado por fans que abarca la creación de equipos, los atributos de los jugadores, la progresión, los códigos y los conocimientos esenciales del juego, tanto para jugadores nuevos como veteranos.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Información legal",
+    "copyright": "2026 Wiki de Build A Striker. No está afiliada a Build A Striker ni a Roblox.",
+    "description": "Guías independientes para el juego de Roblox de creación de equipos de fútbol: crea delanteros más fuertes, elige atributos de forma más estratégica y asciende en la clasificación.",
+    "playGame": "Jugar en Roblox",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "YouTube oficial",
+    "vvBuilder": "Página oficial de Roblox",
+    "beginnerGuide": "Guías de juego",
+    "codes": "Códigos",
+    "copyrightPage": "Derechos de autor",
+    "aboutPage": "Acerca de",
+    "raceGuides": "Guías de carreras",
+    "bossGuides": "Guías de jefes",
+    "buildGuide": "Guía de creación",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio"
+  }
+}
