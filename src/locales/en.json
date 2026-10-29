@@ -9,7 +9,15 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "progression": "Progression",
+    "characters": "Characters",
+    "controls": "Controls",
+    "codes": "Codes",
+    "updates": "Updates",
+    "community": "Community"
   },
   "home": {
     "meta": {
@@ -397,7 +405,38 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Build A Striker Guide",
+    "overviewDescription": "Start playing Build A Striker with beginner walkthroughs, round strategy, and practical gameplay tips."
+  },
+  "mechanics": {
+    "overviewTitle": "Build A Striker Mechanics",
+    "overviewDescription": "Understand team rolls, player attributes, striker building, and the choices behind each round."
+  },
+  "progression": {
+    "overviewTitle": "Build A Striker Progression",
+    "overviewDescription": "Explore progression, rewards, unlocks, and ways to improve across Build A Striker runs."
+  },
+  "characters": {
+    "overviewTitle": "Build A Striker Characters",
+    "overviewDescription": "Compare striker types and character building choices for your next Build A Striker run."
+  },
+  "controls": {
+    "overviewTitle": "Build A Striker Controls",
+    "overviewDescription": "Find Build A Striker controls and input guidance for PC, mobile, and controllers."
+  },
+  "codes": {
+    "overviewTitle": "Build A Striker Codes",
+    "overviewDescription": "Check Build A Striker code information and where to look for official announcements."
+  },
+  "updates": {
+    "overviewTitle": "Build A Striker Updates",
+    "overviewDescription": "Read about Build A Striker releases, recent changes, and new features."
+  },
+  "community": {
+    "overviewTitle": "Build A Striker Community",
+    "overviewDescription": "Find the Build A Striker community server and Roblox group resources."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
