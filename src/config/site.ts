@@ -7,7 +7,6 @@ export interface SiteConfig {
   url: string;
   supportEmail: string;
   gameUrl?: string;
-  heroVideoId?: string;
   social?: {
     discord?: string;
     youtube?: string;
@@ -21,17 +20,12 @@ export interface SiteConfig {
 export const siteConfig: SiteConfig = {
   name: "Build A Striker Wiki",
   shortName: "Build A Striker",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "14VNoWXOT2E",
-  social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
-  },
+  logoText: "BS",
+  tagline: "Guides, Codes & Squad Building for the Roblox Striker Game",
+  description: "Build A Striker guides for Roblox players: squad-building strategies, player attributes, progression tips, gameplay walkthroughs, and verified codes.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://build-a-striker.wiki",
+  supportEmail: "support@build-a-striker.wiki",
+  gameUrl: "https://www.roblox.com/games/98256320592611/",
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
 };
